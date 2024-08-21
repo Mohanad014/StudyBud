@@ -9,7 +9,7 @@
 --> Clone the repository using the command below :
 ```bash
 git clone https://github.com/Mohanad014/StudyBud.git
-
+ 
 ```
 
 --> Move into the directory where we have the project files : 
